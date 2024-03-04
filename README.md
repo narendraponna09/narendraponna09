@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @narendraponna09
+- 👋 Hi, I’m @narendraponna
 - 👀 I’m interested in AWS, DevOps, and learning DevOps tools.
 - 🌱 I’m currently learning about automation, continuous integration/continuous deployment (CI/CD), containerization, and infrastructure as code (IaC).
 - 💞️ I’m looking to collaborate on projects related to cloud architecture, DevOps practices, and automation.
